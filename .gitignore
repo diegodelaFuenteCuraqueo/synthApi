@@ -1,0 +1,12 @@
+*.swp
+*.swo
+*.vscode/
+*__pycache__/
+*.pyc
+*.pyo
+*.log
+*.bak
+venv/
+**/migrations/
+**/settings_local.py
+
